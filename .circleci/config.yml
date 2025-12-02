@@ -1,7 +1,7 @@
 version: 2.1
 orbs:
   codecov: codecov/codecov@4.2.0
-  gradle: circleci/gradle@3.0.0
+  gradle: circleci/gradle@4.1.0
   docker: circleci/docker@2.8.2
   github-cli: circleci/github-cli@2.7.2
   node: circleci/node@6.3.0
