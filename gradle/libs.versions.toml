@@ -1,5 +1,5 @@
 [versions]
-springdoc = "2.8.14"
+springdoc = "2.8.15"
 springBoot = "3.5.9"
 springDependencyManagementPlugin = "1.1.7"
 spotless = "6.25.0"
